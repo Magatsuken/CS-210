@@ -1,7 +1,0 @@
-﻿  Banking.cpp
-E:\Repos\CS210 Project 2\Banking.h(33,2): warning C4091: 'typedef ': ignored on left of 'Banking' when no variable is declared
-  main.cpp
-E:\Repos\CS210 Project 2\Banking.h(33,2): warning C4091: 'typedef ': ignored on left of 'Banking' when no variable is declared
-E:\Repos\CS210 Project 2\main.cpp(11,6): warning C4101: 'months': unreferenced local variable
-  Generating Code...
-  CS210 Project 2.vcxproj -> E:\Repos\CS210 Project 2\Debug\CS210 Project 2.exe
